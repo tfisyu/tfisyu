@@ -1,18 +1,13 @@
 ### OI!!! meu nome é yuri 👍
 
 ##
-
-- estudo front-end há aproximadamente 1 ano e meio
-- atualmente aprendendo react com typescript
-- aceito ideias pra projetos pessoais muito fodas :)
-
-<br>
+estudo front-end há aproximadamente 2 anos e gosto bastante de trabalhar com react e typescript!!
 
 <a href="https://github.com/tfisyu/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tfisyu&show_icons=true&theme=radical&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tfisyu&show_icons=true&theme=radical&bg_color=00000000" />
 </a>
 <a href="https://github.com/tfisyu/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tfisyu&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tfisyu&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
 
 <br>
